@@ -5,5 +5,5 @@ _"There are many applications that provide the solution to buy the food online 2
 
 
 ### Novelity of the project
-_1. Helps the user to find the best deal among the food tech websites._
+_1. Helps the user to find the best deal among the food tech websites._ <br>
 _2. Helps the user to get the recommendation of restaurants as per the locality and budget of the user._
