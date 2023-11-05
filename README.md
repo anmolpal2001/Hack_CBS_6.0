@@ -1,4 +1,4 @@
-![Aahaar__1_-removebg-preview (1)](https://github.com/anmolpal2001/Hack_CBS_6.0/assets/85279423/ddcf89e3-0e9b-4c8e-92ef-5526e98f3a13)# Aahaar
+![Aahaar__1_-removebg-preview (1)](https://github.com/anmolpal2001/Hack_CBS_6.0/assets/85279423/ddcf89e3-0e9b-4c8e-92ef-5526e98f3a13 width="50" height="50"  )# Aahaar
 
 ### Idea Description
 _"There are many applications that provide the solution to buy the food online 24 X 7 in India. Therefore it becomes difficult for anyone to compare the prices at different platforms for same venue. Here comes **Aahaar**, that provides the solution to compare the prices of particular venue at different platforms such as Zomato, Swiggy."_
