@@ -1,4 +1,4 @@
-# Aahaar  <img align="left" alt="food" width ="60px" src=https://github.com/anmolpal2001/Hack_CBS_6.0/assets/85279423/0d8b7fd5-051d-4b14-ac1a-4e0c95aa9668"/>
+# Aahaar  <img align="left" alt="food" width ="60px" src="https://github.com/anmolpal2001/Hack_CBS_6.0/assets/85279423/0d8b7fd5-051d-4b14-ac1a-4e0c95aa9668"/>
 
 <!-- ![final](https://github.com/anmolpal2001/Hack_CBS_6.0/assets/85279423/0d8b7fd5-051d-4b14-ac1a-4e0c95aa9668) -->
 <br>
