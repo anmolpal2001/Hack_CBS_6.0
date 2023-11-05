@@ -18,3 +18,10 @@ _4. Platform for advertisement of local food businesses at affordable prices._
 
 
 ### Our Team
+<img src="https://camo.githubusercontent.com/7aef9ce4e3957e1650678f70f36eaea3da867ddbc4b26ccff209cfe2dbf14d51/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6f726967696e616c2e706e67" alt="" style="height: 25px; width: auto;" /> [Ruchika Yadav](https://github.com/ruchikayadav1408)
+
+<img src="https://camo.githubusercontent.com/7aef9ce4e3957e1650678f70f36eaea3da867ddbc4b26ccff209cfe2dbf14d51/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6f726967696e616c2e706e67" alt="" style="height: 25px; width: auto;" /> [Anmol Pal](https://github.com/anmolpal2001)
+
+<img src="https://camo.githubusercontent.com/7aef9ce4e3957e1650678f70f36eaea3da867ddbc4b26ccff209cfe2dbf14d51/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6f726967696e616c2e706e67" alt="" style="height: 25px; width: auto;" /> [Anuj Bisht](https://github.com/bishtanuj)
+
+<img src="https://camo.githubusercontent.com/7aef9ce4e3957e1650678f70f36eaea3da867ddbc4b26ccff209cfe2dbf14d51/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6f726967696e616c2e706e67" alt="" style="height: 25px; width: auto;" /> [Prakhar Dubey](https://github.com/PRAKHARDUBEYY)
