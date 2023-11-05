@@ -1,4 +1,4 @@
-# Aahaar  <img align="left" alt="food" width ="60px" src="https://github.com/anmolpal2001/Hack_CBS_6.0/assets/85279423/0d8b7fd5-051d-4b14-ac1a-4e0c95aa9668"/>
+# आhaar  <img align="left" alt="food" width ="60px" src="https://github.com/anmolpal2001/Hack_CBS_6.0/assets/85279423/0d8b7fd5-051d-4b14-ac1a-4e0c95aa9668"/>
 
 <span lang="hi" style="font-family: Devanagari, Arial, sans-serif; font-size: 18px; color: blue;">यह एक हिंदी वाक्य है।</span>
 
