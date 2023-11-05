@@ -1,6 +1,6 @@
-# आhaar  <img align="left" alt="food" width ="60px" src="https://github.com/anmolpal2001/Hack_CBS_6.0/assets/85279423/0d8b7fd5-051d-4b14-ac1a-4e0c95aa9668"/>
+# आHAAR  <img align="left" alt="food" width ="60px" src="https://github.com/anmolpal2001/Hack_CBS_6.0/assets/85279423/0d8b7fd5-051d-4b14-ac1a-4e0c95aa9668"/>
 
-<span lang="hi" style="font-family: Devanagari, Arial, sans-serif; font-size: 18px; color: blue;">यह एक हिंदी वाक्य है।</span>
+
 
 ### Idea Description
 _"There are many applications that provide the solution to buy the food online 24 X 7 in India. Therefore it becomes difficult for anyone to compare the prices at different platforms for same venue. Here comes **Aahaar**, that provides the solution to compare the prices of particular venue at different platforms such as Zomato, Swiggy."_
