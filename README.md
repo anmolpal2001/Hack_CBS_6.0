@@ -18,3 +18,7 @@ _4. Platform for advertisement of local food businesses at affordable prices._
 
 
 ### Our Team
+_1.Ruchika Yadav._<br>
+_2.Anmol Pal._<br>
+_3.Anuj Bisht._<br>
+_4.Prakhar Dubey._
